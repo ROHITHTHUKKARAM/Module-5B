@@ -126,7 +126,7 @@ print(df)
 ## Result
 Thus the program to create and display a DataFrame using the Pandas library in Python from a given dictionary, and apply specific index labels to the rows is executed successfully.
 
-# 5.  🧪 Pandas Program: Join Two DataFrames Along Rows
+# 5.Pandas Program: Join Two DataFrames Along Rows
 
 ## 🎯 AIM
 
